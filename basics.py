@@ -16,7 +16,28 @@ print(type(c))
 a,b=2.5,4  #multiple assigment
 print(a,b) #print value in same line
 del a #deletes a
-print (a) #gives error
+# print (a) #gives error
  
 
+
+ ############ OPERATORS #############
+ 
+# Symbols   Task_Performed
+#    +         Addition
+#    -         Subtraction
+#    *         Multiplication
+#    /         Gives the quotient(division)
+#    %         Gives remainder
+#    //        floor division
+#    **        to the power of
+
+s=num+num2
+print(s)
+sub=num-num2
+print(sub)
+power=num2**num
+print(power)
+print(num*num2)
+
+# _ is the default variable that stores the last operation result if it is not stored in any specific variable.
 
