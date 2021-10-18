@@ -1,5 +1,8 @@
 print ("Hello world")
-
+print("Hello world I'm Rachana") # use single quotes in double quotes
+print('Hello World "Rachana" this side') # use double quotes in single quotes
+print('Hello I\'m Rachana') # use escape sequence to put single quotes in single quotes and same for double.
+print("This is \"me\" Alright!")
 ############## VARIABLES ##############
 
 # Variables are declared by using the = operator. Data type need not to be mentioned along with. 
