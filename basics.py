@@ -7,11 +7,13 @@ num=20
 num2=12.45
 name="Rachana"
 c=23+4j
+d=True
 print(name)
 print(type(num))
 print(type(num2))
 print(type(name))
 print(type(c))
+print(type(d))
 # type is used to know the type of data the variable contains.
 a,b=2.5,4  #multiple assigment
 print(a,b) #print value in same line
