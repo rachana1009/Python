@@ -9,4 +9,4 @@ print("4 backslash \\\\\\\\")
 print("tab \\t")
 
 #output: \" \'
-print("\\\" \\\' ")
+print("\\\" \\\' ")  # \" will give " whereas \\ will give \
