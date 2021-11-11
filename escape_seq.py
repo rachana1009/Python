@@ -7,3 +7,6 @@ print("hell\blo") #\b will erase the previous character.
 print("\\n for new line") #double slash is used along to print it as it is not as a escape sequence.
 print("4 backslash \\\\\\\\")
 print("tab \\t")
+
+#output: \" \'
+print("\\\" \\\' ")
