@@ -10,3 +10,5 @@ print("tab \\t")
 
 #output: \" \'
 print("\\\" \\\' ")  # \" will give " whereas \\ will give \
+
+print(r"this is \n new line") # using r alongwith treat escape sequences as normal text
