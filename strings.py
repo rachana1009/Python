@@ -11,3 +11,7 @@ print(name[0:]) #Rachana will be printed
 print(name[:]) #Rachana will be printed
 print(name[4:])
 print(name[:-3])
+
+print(name[0:5:2]) #will print skipping 2 letters in between
+
+print(name[0:4:-1]) # will reverse the string
