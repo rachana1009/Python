@@ -13,4 +13,7 @@ for i in range(1,15,2):
         break
     print (i)
 
+for i in "Rachana":
+    print(i)
+
     
