@@ -15,3 +15,17 @@ print(name[:-3])
 print(name[0:5:2]) #will print skipping 2 letters in between
 
 print(name[0:4:-1]) # will reverse the string
+
+
+# USER INPUT
+age=input("Enter your age:")
+print(age)
+
+u_name, u_age = input("Enter your name and age:").split()
+print("Name:", u_name)
+print("Age:", u_age)
+
+gender , phone = input("Enter your gender and phone number:").split(",")
+print("Gender:", gender)
+print("Phone number:", phone)
+                                                                                                                                                                                              
