@@ -28,4 +28,5 @@ print("Age:", u_age)
 gender , phone = input("Enter your gender and phone number:").split(",")
 print("Gender:", gender)
 print("Phone number:", phone)
-                                                                                                                                                                                              
+
+print(len(u_name)) #will print the length of u_name variable                                                                                                                                                                                              
