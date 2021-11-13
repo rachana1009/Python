@@ -34,3 +34,11 @@ print(len(u_name)) #will print the length of u_name variable
 print(u_name.lower()) # name in all lowercase
 print(u_name.upper()) # name in all upper case
 print(u_name.title()) # name with first word in upper and rest in lower case
+
+
+print(u_name.find("c")) # give index of c in name
+
+print(name.center(13,"*"))
+
+
+print(name.replace("R","r"))
