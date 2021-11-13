@@ -30,3 +30,7 @@ print("Gender:", gender)
 print("Phone number:", phone)
 
 print(len(u_name)) #will print the length of u_name variable                                                                                                                                                                                              
+
+print(u_name.lower()) # name in all lowercase
+print(u_name.upper()) # name in all upper case
+print(u_name.title()) # name with first word in upper and rest in lower case
